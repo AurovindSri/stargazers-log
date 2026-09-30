@@ -8,3 +8,4 @@ fetch("events.json")
       list.appendChild(item);
     });
   });
+//checking for commit PR functionality
